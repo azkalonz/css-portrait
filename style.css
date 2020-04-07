@@ -4,6 +4,7 @@ body {
   min-height: 100vh;
   align-items: center;
   overflow-x: hidden;
+  background-color: #997058;
 }
 
 .ref {
@@ -264,8 +265,8 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0) 93%, #d19069), linear-gradient(350deg, rgba(0, 0, 0, 0) 65%, #bf6c3d), linear-gradient(rgba(0, 0, 0, 0) 93%, #ae410b), linear-gradient(124deg, #c07041 25%, rgba(0, 0, 0, 0) 40%), linear-gradient(72deg, rgba(0, 0, 0, 0) 60%, #c67c4f 71%), linear-gradient(0deg, #bc6436 16%, rgba(0, 0, 0, 0) 28%), linear-gradient(104deg, #bc6436 42%, #d3865a 58%);
-  -webkit-clip-path: polygon(20% 0, 100% 0, 86% 56%, 96% 76%, 97% 77%, 98% 80%, 98% 85%, 98% 90%, 94% 95%, 90% 97%, 70% 99%, 60% 97%, 50% 94%, 45% 94%, 42% 94%, 37% 94%, 33% 95%, 28% 96%, 20% 97%, 13% 96%, 9% 93%, 5% 90%, 4% 83%, 5% 80%, 7% 75%, 18% 65%, 36% 40%, 40% 35%, 37% 25%);
+  background: linear-gradient(rgba(0, 0, 0, 0) 93%, #d19069), linear-gradient(350deg, rgba(0, 0, 0, 0) 65%, #c87a4b), linear-gradient(rgba(0, 0, 0, 0) 93%, #ae410b), linear-gradient(124deg, #c07041 25%, rgba(0, 0, 0, 0) 40%), linear-gradient(72deg, rgba(0, 0, 0, 0) 60%, #c97b4e 71%), linear-gradient(0deg, #bc6436 16%, rgba(0, 0, 0, 0) 28%), linear-gradient(104deg, #bc6436 42%, #d3865a 58%);
+  -webkit-clip-path: polygon(20% 0, 80% 0%, 100% 25%, 86% 56%, 96% 76%, 97% 77%, 98% 80%, 98% 85%, 98% 90%, 94% 95%, 90% 97%, 70% 99%, 60% 97%, 50% 94%, 45% 94%, 42% 94%, 37% 94%, 33% 95%, 28% 96%, 20% 97%, 13% 96%, 9% 93%, 5% 90%, 4% 83%, 5% 80%, 7% 75%, 18% 65%, 36% 40%, 40% 35%, 37% 25%);
 }
 .container .head-container .nose-container .shape::before {
   content: "";
@@ -302,7 +303,7 @@ body {
   filter: blur(5px);
 }
 .container .head-container > .shape {
-  background: linear-gradient(-90deg, #ebaf8b 20%, rgba(0, 0, 0, 0) 60%), linear-gradient(#bf6b3c, #c06e3f);
+  background: linear-gradient(-90deg, #ebaf8b 20%, rgba(0, 0, 0, 0) 60%), linear-gradient(#ca7d4e, #c06e3f);
   -webkit-clip-path: polygon(23% 0, 70% 0%, 80% 10%, 88% 20%, 90% 25%, 90% 41.6%, 94% 39.6%, 95% 47.6%, 95% 40.6%, 97% 42.6%, 102% 45.6%, 98% 49.6%, 96% 53.6%, 95% 56.6%, 92% 59.6%, 89% 60.6%, 84% 59.6%, 80% 65.6%, 70% 72.3%, 58% 78.3%, 46% 81.3%, 38% 81.5%, 29% 81.4%, 29% 81.3%, 27% 81%, 27% 81%, 25% 80.7%, 23.7% 80.3%, 22.7% 80%, 19.7% 78%, 16.7% 76%, 14.7% 74%, 12.3% 72%, 10.3% 70%, 8.5% 68%, 7% 66%, 6% 64%, 5% 62%, 4% 60%, 2% 53%, 1% 42%, 1.6% 37%, 6.6% 29%, 5.6% 26%, 7.3% 20%, 10.8% 14%, 18% 5%);
   width: 405px;
   margin-left: -45px;
