@@ -1,1 +1,1 @@
-Demo https://azkalonz.github.io/CSS-Portrait/demo.html
+[View CSS Portrait](https://azkalonz.github.io/css-portrait/index.html)
